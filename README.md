@@ -1,2 +1,2 @@
-# hubot-google-images
-test
+
+# ~~ `hubot-scripts` account is taken for PoC ~~
